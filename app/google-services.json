@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "193353535210",
+    "firebase_url": "https://naturallanguage-a8be4.firebaseio.com",
+    "project_id": "naturallanguage-a8be4",
+    "storage_bucket": "naturallanguage-a8be4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193353535210:android:a0eb8d09f1817515",
+        "android_client_info": {
+          "package_name": "com.ineat.firebase.natural.language"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193353535210-6sjh4dnldrfg96frj6bjqcaaa644ln6f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEZ8dpDsc4vvJW-Xbn_gIuXkFqT9EhsDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193353535210-6sjh4dnldrfg96frj6bjqcaaa644ln6f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
